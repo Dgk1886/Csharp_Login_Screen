@@ -1,0 +1,26 @@
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\bin\Debug\LoginPaneli.exe.config
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\bin\Debug\LoginPaneli.exe
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\bin\Debug\LoginPaneli.pdb
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.AssemblyReference.cache
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.Form1.resources
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.Properties.Resources.resources
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.GenerateResource.cache
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.CoreCompileInputs.cache
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.exe
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.pdb
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.Form2.resources
+C:\Users\Emir36\OneDrive\Masaüstü\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.Form3.resources
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\bin\Debug\LoginPaneli.exe.config
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\bin\Debug\LoginPaneli.exe
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\bin\Debug\LoginPaneli.pdb
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.AssemblyReference.cache
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.Form1.resources
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.Form2.resources
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.Form3.resources
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.Properties.Resources.resources
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.GenerateResource.cache
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.csproj.CoreCompileInputs.cache
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.exe
+C:\Users\Emir36\Desktop\C# ve Sql\C# projeler\LoginPaneli\LoginPaneli\obj\Debug\LoginPaneli.pdb
